@@ -33,6 +33,7 @@
 - 摄像头可以使用,但不知道facetime是否支持
 
 ## 配图
+
 *neofetch:*
 ![neofetch](./images/neofetch.png)
 
