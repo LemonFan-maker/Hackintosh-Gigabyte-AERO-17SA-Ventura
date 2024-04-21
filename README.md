@@ -64,4 +64,4 @@
 ![wifi](./images/wifi_data.png)
 
 如果帮到了您，您能请我喝瓶矿泉水吗？
-![WECHAT](./images/WECHAT.PNG)
+![WECHAT](./images/WECHAT.jpeg)
