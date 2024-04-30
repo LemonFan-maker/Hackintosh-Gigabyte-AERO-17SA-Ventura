@@ -7,7 +7,7 @@
 - GPU1：Intel UHD Graphics 630
 - GPU2：NVIDIA GTX 1660Ti (已屏蔽)
 - 无线网卡：Intel Killer AX1650
-- 有线网卡：？？？
+- 有线网卡：Intel Killer Ethernet E2600
 - 存储：INTEL SSDPEKKW512G8
 
 ## 目前存在的问题
