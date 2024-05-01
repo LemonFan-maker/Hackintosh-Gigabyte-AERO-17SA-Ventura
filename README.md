@@ -1,5 +1,8 @@
 # Hackintosh-Gigabyte-AERO-17SA-Ventura
 
+## 支持OpenCore版本
+**0.9.9** 不建议降级使用
+
 ## 设备配置
 - 型号：Gigabyte AERO-17SA
 - 生产日期：2019-08
